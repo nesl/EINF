@@ -1,0 +1,6 @@
+[submodule "base"]
+	path = base
+	url = git@github.com:nesl/platform_frameworks_base.git
+[submodule "native"]
+	path = native
+	url = git@github.com:nesl/platform_frameworks_native.git
